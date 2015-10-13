@@ -1,1 +1,1 @@
-It is a learning code program.
+is a learning code program.
