@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1444738001 source:/home/franz/learn/csapp.c
+	"csapp.h"
+
+1444738261 /home/franz/learn/csapp.h
+	<stdio.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<errno.h>
+
+1444742486 source:/home/franz/learn/csapp/csapp.c
+	"csapp.h"
+
+1444738261 /home/franz/learn/csapp/csapp.h
+	<stdio.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<errno.h>
+
+1444745785 source:/home/franz/learn/echoserver/echoserveri.c
+	"csapp.h"
+	"echo.c"
+
+1444735517 /home/franz/learn/echoserver/echo.c
+	"csapp.h"
+
